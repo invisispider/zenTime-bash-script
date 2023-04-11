@@ -3,7 +3,7 @@
 A command prompt version of Stein Unlimited's unique original calendar and time system.
 
 *You need to apt/yum/pacman install `bc` or it will output an error. 
-bc is a simple calculator tool that avoids potential errors, often ships with your Linux distro.
+It's a simple calculator tool that avoids potential errors, often ships with your Linux distro.
 
 [Live Demo written in Vue.js](https://www.steinunlimited.com/zentime)
 
